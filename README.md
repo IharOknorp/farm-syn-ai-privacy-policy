@@ -1,6 +1,6 @@
 # Privacy Policy for FarmSyn AI
 
-**Effective date:** 11.02.2026
+**Effective date:** 11.02.2026  
 **Last updated:** 11.02.2026
 
 ## Table of Contents
@@ -25,7 +25,8 @@
 ## 1. Who We Are
 FarmSyn AI (“we”, “us”, “our”) provides AI-assisted agronomy decision-support features in the FarmSyn AI mobile application.
 
-Privacy contact: **privacy@yourdomain.com**
+Data Controller: **Ihar Pronka, Warsaw, Poland**  
+Privacy contact: **oknorpcorp@gmail.com**
 
 ## 2. Scope
 This Privacy Policy explains how we collect, use, store, share, and delete personal data when you use FarmSyn AI.
@@ -86,7 +87,11 @@ Your data may be processed outside your country.
 Where required, we apply appropriate safeguards for international transfers.
 
 ## 11. Data Retention
-We retain personal data only as long as necessary for service, legal, security, and dispute-resolution purposes.
+We retain user content and related service data for up to **30 days**, unless:
+- You request earlier deletion via in-app **Delete my data** or by email, or
+- A longer period is required by law, security, or dispute-resolution obligations.
+
+You can also request a copy of your data at any time via in-app **Export my data**.
 
 ## 12. Your Rights
 Depending on your location, you may have rights to:
@@ -97,6 +102,8 @@ Depending on your location, you may have rights to:
 - Data portability
 - Withdraw consent at any time
 - Lodge a complaint with a supervisory authority
+
+You can use in-app **Export my data** and **Delete my data**, or contact us by email.
 
 ## 13. Data Deletion Request
 To request deletion, email: **oknorpcorp@gmail.com**  
@@ -117,7 +124,8 @@ We use technical and organizational safeguards to protect data.
 No method of transmission or storage is 100% secure.
 
 ## 15. Children
-FarmSyn AI is not intended for children under the minimum age required by applicable law.
+FarmSyn AI is intended for users **18+**.  
+We do **not knowingly** collect personal data from children. If we learn that personal data of a child has been collected, we will delete it without undue delay.
 
 ## 16. Changes to This Policy
 We may update this policy from time to time.  
