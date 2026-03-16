@@ -40,6 +40,14 @@ FeelTrack is designed to work primarily as an offline mood tracker. Most mood lo
 
 - The app is not directed to children under the age required by local law to consent to personalized advertising, purchases, or other data processing.
 
+## Data Deletion {#data-deletion}
+
+- FeelTrack stores core mood data locally on your device.
+- You can delete all locally stored mood entries, notes, and related app data at any time from `Settings -> Clear Data`.
+- You can also remove locally stored app data by uninstalling the app, subject to your device operating system and backup settings.
+- If you make an optional purchase, limited transaction or entitlement records may be retained by Apple, Google Play, or RevenueCat under their own legal and operational retention requirements.
+- If you have a question about third-party purchase, advertising, or platform-held data, please contact the relevant provider or use the privacy controls available through your device or app marketplace account.
+  
 ## Data Retention
 
 - Locally stored mood data remains on your device until you delete it, clear app storage, or remove the app.
