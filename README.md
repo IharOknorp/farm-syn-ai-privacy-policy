@@ -1,135 +1,50 @@
-# Privacy Policy for FarmSyn AI
+# Privacy Policy
 
-**Effective date:** 11.02.2026  
-**Last updated:** 11.02.2026
+Updated: March 16, 2026
 
-## Table of Contents
-- [1. Who We Are](#1-who-we-are)
-- [2. Scope](#2-scope)
-- [3. Important AI Disclaimer](#3-important-ai-disclaimer)
-- [4. Data We Collect](#4-data-we-collect)
-- [5. How We Use Data](#5-how-we-use-data)
-- [6. Legal Bases (EEA/UK/CH)](#6-legal-bases-eeaukch)
-- [7. Ads, Consent, and European Regulations](#7-ads-consent-and-european-regulations)
-- [8. Analytics](#8-analytics)
-- [9. Data Sharing and Processors](#9-data-sharing-and-processors)
-- [10. International Data Transfers](#10-international-data-transfers)
-- [11. Data Retention](#11-data-retention)
-- [12. Your Rights](#12-your-rights)
-- [13. Data Deletion Request](#13-data-deletion-request)
-- [14. Security](#14-security)
-- [15. Children](#15-children)
-- [16. Changes to This Policy](#16-changes-to-this-policy)
-- [17. Contact](#17-contact)
+FeelTrack is designed to work primarily as an offline mood tracker. Most mood logs, tags, notes, language choices, and theme preferences are stored only on your device unless you choose to use features that rely on third-party services, such as advertising or optional purchases.
 
-## 1. Who We Are
-FarmSyn AI (“we”, “us”, “our”) provides AI-assisted agronomy decision-support features in the FarmSyn AI mobile application.
+## Information Stored on Your Device
 
-Data Controller: **Ihar Pronka, Warsaw, Poland**  
-Privacy contact: **oknorpcorp@gmail.com**
+- Your mood entries, notes, tags, selected language, theme preference, and other app settings are stored locally on your device.
+- The core version of the app does not require account creation, login, or cloud sync.
 
-## 2. Scope
-This Privacy Policy explains how we collect, use, store, share, and delete personal data when you use FarmSyn AI.
+## Advertising
 
-## 3. Important AI Disclaimer
-FarmSyn AI provides **AI-generated decision support only**.  
-It does **not** replace certified agronomists, laboratory testing, medical advice, or local regulatory guidance.  
-Always verify critical actions (especially chemical use and dosage) with qualified professionals and product labels.
+- If ads are enabled, the app may request banner advertisements from Google AdMob.
+- Ad delivery may involve device identifiers, app diagnostics, approximate region, consent status, and limited technical metadata as permitted by the platform and applicable law.
+- If your region requires privacy choices for advertising, the app may show a consent flow before personalized ads are requested.
 
-## 4. Data We Collect
-We may collect:
-- Account data: email, display name, profile photo (Google Sign-In / Firebase Auth)
-- App settings: language, theme, consent choices
-- User content: uploaded photos, scan metadata, chat messages, analysis results
-- Technical data: app version, device type, OS, diagnostics/log data
-- Advertising/consent data: ad consent status, privacy options status, ad request mode
-- Analytics events (where enabled): feature usage and performance events
+## Optional Purchases
 
-## 5. How We Use Data
-We use personal data to:
-- Provide app functionality (authentication, scan history, sync)
-- Generate AI analysis and chat responses
-- Improve reliability, security, and user experience
-- Serve ads (personalized ads only where consent is provided)
-- Comply with legal obligations
+- If you choose to make an optional one-time support purchase, payment processing is handled by Apple App Store or Google Play, and purchase status may be managed through RevenueCat.
+- We do not receive your full payment card details. We may receive limited purchase status information, entitlement state, transaction identifiers, and app user identifiers needed to unlock or restore paid features.
 
-## 6. Legal Bases (EEA/UK/CH)
-Where GDPR or equivalent laws apply, we rely on:
-- **Contract** (service delivery)
-- **Consent** (personalized ads and non-essential tracking where required)
-- **Legitimate interests** (security, fraud prevention, service improvement)
-- **Legal obligation**
+## Analytics
 
-You may withdraw consent at any time in app settings.
+- If analytics are available in your version of the app, they are intended to be limited to app quality, crash reporting, and basic feature usage information.
+- Where analytics are optional, you can manage that preference in the app settings.
 
-## 7. Ads, Consent, and European Regulations
-For users in the EEA, UK, and Switzerland, we use a consent mechanism (Google UMP) to collect and manage ad consent.
+## Your Choices and Controls
 
-- If consent is granted, we may request personalized ads.
-- If consent is denied or unavailable, we request non-personalized ads.
-- Users can change ad privacy choices in app settings (“Manage Ad Consent”).
+- You can delete all locally stored mood data at any time from the settings screen.
+- You can also change language, theme, and ad-related preferences from within the app.
+- If your device platform allows it, you can manage notification permissions and some ad privacy choices in system settings.
 
-## 8. Analytics
-We may collect analytics to understand app performance and usage trends.  
-Where required by law, analytics is processed only after valid consent.
+## Legal Basis and Your Rights
 
-## 9. Data Sharing and Processors
-We may share data with service providers acting as processors, such as:
-- Google Firebase (Auth, Firestore, Functions, Analytics)
-- Google AdMob / UMP (ads and consent)
-- OpenAI (AI inference for analysis/chat)
-- Hosting/infrastructure providers
+- Where GDPR or similar privacy laws apply, local mood storage is processed as part of the service you requested, while advertising, optional analytics, and purchase-related processing may rely on consent, contract performance, or other lawful bases depending on the feature used.
+- Depending on your jurisdiction, you may have rights to request access, correction, deletion, restriction, objection, or portability in relation to personal data processed by connected third-party services.
 
-We do not sell personal data.
+## Children
 
-## 10. International Data Transfers
-Your data may be processed outside your country.  
-Where required, we apply appropriate safeguards for international transfers.
+- The app is not directed to children under the age required by local law to consent to personalized advertising, purchases, or other data processing.
 
-## 11. Data Retention
-We retain user content and related service data for up to **30 days**, unless:
-- You request earlier deletion via in-app **Delete my data** or by email, or
-- A longer period is required by law, security, or dispute-resolution obligations.
+## Data Retention
 
-You can also request a copy of your data at any time via in-app **Export my data**.
+- Locally stored mood data remains on your device until you delete it, clear app storage, or remove the app.
+- Third-party services such as ad providers, app stores, and RevenueCat may retain limited technical or transaction-related data under their own retention practices and legal obligations.
 
-## 12. Your Rights
-Depending on your location, you may have rights to:
-- Access your data
-- Correct inaccurate data
-- Delete your data
-- Restrict or object to certain processing
-- Data portability
-- Withdraw consent at any time
-- Lodge a complaint with a supervisory authority
+## Contact
 
-You can use in-app **Export my data** and **Delete my data**, or contact us by email.
-
-## 13. Data Deletion Request
-To request deletion, email: **oknorpcorp@gmail.com**  
-Subject: **Data Deletion Request – FarmSyn AI**
-
-Please include:
-- Your account email
-- Optional user ID (if available)
-- Confirmation that you want full deletion
-
-We may verify identity before processing deletion requests.
-
-Direct anchor link:  
-`https://iharoknorp.github.io/farm-syn-ai-privacy-policy/#13-data-deletion-request`
-
-## 14. Security
-We use technical and organizational safeguards to protect data.  
-No method of transmission or storage is 100% secure.
-
-## 15. Children
-FarmSyn AI is intended for users **18+**.  
-We do **not knowingly** collect personal data from children. If we learn that personal data of a child has been collected, we will delete it without undue delay.
-
-## 16. Changes to This Policy
-We may update this policy from time to time.  
-Material changes will be reflected by updating the “Last updated” date.
-
-## 17. Contact
-Privacy requests and questions: **oknorpcorp@gmail.com**
+- Before release, replace this placeholder with a real support contact email in both the policy text and the store listing.
