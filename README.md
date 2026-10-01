@@ -55,4 +55,4 @@ FeelTrack is designed to work primarily as an offline mood tracker. Most mood lo
 
 ## Contact
 
-- Before release, replace this placeholder with a real support contact email in both the policy text and the store listing.
+- For questions about this Privacy Policy or FeelTrack’s handling of your data, contact us at **oknorpcorp@gmail.com**.
